@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+header{
+border: solid darkblue 1px;
+background-color: darkblue;
+border-radius: 10px;
+}
+b{
+color: white;
+}
+a{
+color: white;
+}
+h1{
+text-align: center;
+color: darkorange;
+}
+footer p{
+background-color: lime;
+}
+footer i{
+color: black;
+}
+nav{
+background-color: darkgreen;
+border-radius: 5px;
+padding: 5px;
+}
+.motivation{
+border: rgb(194, 41, 41) solid 1px;
+border-radius: 10px;
+background-color: rgb(194, 41, 41);
+}
+p{
+color: whitesmoke;
+}
+i{
+color: black;
+font-weight: bold;
+}
+.power{
+color: black;
+}
